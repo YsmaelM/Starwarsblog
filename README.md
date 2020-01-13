@@ -1,2 +1,5 @@
 # Starwars blog
-Un blog de Star Wars 
+A blog de Star Wars 
+by a big fan 
+
+
